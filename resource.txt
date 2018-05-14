@@ -2,6 +2,6 @@
 https://10.1.248.30:9443/triton/login/pages/loginPage.jsf
 https://support.forcepoint.com/resource/1491651191000/FPS_Assets/assets/img/logos/forcepoint.png
 Websense
-https://10.1.254.120
-https://10.1.254.120/login/images/logo-pan-48525a.svg
-PaloAlto Networks
+http://10.1.248.19/
+https://s25119.pcdn.co/wp-content/uploads/apm-logo.png
+Applications Manager
