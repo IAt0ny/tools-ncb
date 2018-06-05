@@ -7,4 +7,4 @@ https://s25119.pcdn.co/wp-content/uploads/apm-logo.png
 Applications Manager
 https://10.1.248.230/
 https://10.1.248.230/console/qradar/img/main_logo.gif
-IBM QRadar
+NCB QRadar
