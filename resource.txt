@@ -8,3 +8,6 @@ Applications Manager
 https://10.1.248.230/
 https://10.1.248.230/console/qradar/img/main_logo.gif
 NCB QRadar
+http://10.1.31.17/
+https://image.flaticon.com/icons/svg/138/138954.svg
+NCB Assets
